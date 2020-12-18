@@ -8,3 +8,7 @@ http://localhost:4000/api-docs/
 
 ## HELLO WORLD :books:
 Es un ejemplo básico de la implementación de swagger en un api sencilla
+
+###NOTA :point_down:
+También puede descargar la imagen de docker en el siguiente enlace:
+https://hub.docker.com/r/danielaocampo/crud-user/tags?page=1&ordering=last_updated
