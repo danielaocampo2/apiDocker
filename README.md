@@ -5,3 +5,6 @@ Es un API que contiene los cuatro <b>métodos, post, delete, put y get</b> con u
 La documentación del api la pueden encontrar en el siguiente enlaceuna vez corra la aplicación. 
 
 http://localhost:4000/api-docs/
+
+## HELLO WORLD :books:
+Es un ejemplo básico de la implementación de swagger en un api sencilla
